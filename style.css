@@ -1,0 +1,25 @@
+.pro-img{
+    height: 100px;
+    border-radius: 50%;
+
+}
+.image{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    width: 100%
+    
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imgskill{
+    height: 200px;
+    width: 260px;
+    border-radius: 50%;
+}
+.bg-colr{
+    background-color: aqua;
+}
